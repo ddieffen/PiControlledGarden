@@ -3,8 +3,8 @@ PiControlledGarden
 
 RaspberryPi controlled garden for indoors herbs growing
 
-How to setup
-============
+Hardware Setup
+==============
 
 The installation, and setup of the PI are described on this webpage. Please refer to it in order to build the system
 http://ddieffen.blogspot.com/2013/11/pi-controlled-garden.html
